@@ -4,30 +4,40 @@ Este repositório contém anotações, exemplos e exercícios práticos que dese
 
 ---
 
-## 📁 Estrutura do Repositório
+## 📁 Estrutura dos Arquivos
 
-| Arquivo                         | Descrição                                                                 |
-|----------------------------------|---------------------------------------------------------------------------|
-| `01_criacao_arrays.py`           | Criação de arrays, matrizes, linspace, identidade, indexação e slicing   |
-| `02_operacoes_com_arrays.py`     | Operações aritméticas, potenciação, raiz, operações com escalares         |
-| `03_indexacao_comparacoes.py`    | Indexação em arrays, slicing, substituição e comparações lógicas          |
-| `04_exercicios_numpy.py`         | Exercícios práticos aplicando os conceitos principais do NumPy            |
-
----
-
-## 📌 Sobre NumPy
-
-NumPy (Numerical Python) é uma biblioteca fundamental para computação científica em Python. Ela fornece:
-
-- Estruturas eficientes para arrays e matrizes
-- Ferramentas matemáticas e estatísticas
-- Operações vetorizadas para alto desempenho
+| Arquivo                         | Descrição                                                       |
+|---------------------------------|------------------------------------------------------------------|
+| `01_criacao_vetores_arrays_numpy.py` | Criação de arrays, vetores e estruturas básicas com NumPy       |
+| `02_operacoes_com_arrays.py`         | Operações matemáticas com arrays e operações com escalares      |
+| `03_indexacao_comparacoes.py`       | Técnicas de indexação, slicing e comparações lógicas            |
+| `04_exercicios_numpy.py`            | Exercícios práticos aplicando os conceitos principais do NumPy  |
 
 ---
 
-## 🚀 Como Executar
+## ▶️ Executar no Google Colab
 
-Você pode executar os arquivos de forma independente:
+Você pode visualizar e executar os arquivos diretamente no Google Colab clicando nos links abaixo:
 
-```bash
-python nome_do_arquivo.py
+- [01_criacao_vetores_arrays_numpy.py](https://colab.research.google.com/github/luizbatist/estudos-numpy/blob/main/01_criacao_vetores_arrays_numpy.py)
+- [02_operacoes_com_arrays.py](https://colab.research.google.com/github/luizbatist/estudos-numpy/blob/main/02_operacoes_com_arrays.py)
+- [03_indexacao_comparacoes.py](https://colab.research.google.com/github/luizbatist/estudos-numpy/blob/main/03_indexacao_comparacoes.py)
+- [04_exercicios_numpy.py](https://colab.research.google.com/github/luizbatist/estudos-numpy/blob/main/04_exercicios_numpy.py)
+
+---
+
+## 📚 Sobre NumPy
+
+NumPy (Numerical Python) é uma biblioteca fundamental para computação científica em Python. Com ela, é possível:
+
+- Trabalhar com arrays e matrizes multidimensionais
+- Realizar operações matemáticas e estatísticas com desempenho otimizado
+- Utilizar funções prontas para álgebra linear, transformadas de Fourier e geração de números aleatórios
+
+---
+
+## 🚀 Objetivo
+
+O objetivo deste repositório é servir como material de apoio para meus estudos e também ajudar outras pessoas que estão começando a aprender **NumPy** e **análise de dados com Python**.
+
+---

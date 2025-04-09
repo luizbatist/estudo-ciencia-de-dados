@@ -19,7 +19,7 @@ Este repositório contém anotações, exemplos e exercícios práticos que dese
 
 Você pode visualizar e executar os arquivos diretamente no Google Colab clicando nos links abaixo:
 
-- [01_criacao_vetores_arrays_numpy.py](https://colab.research.google.com/github/luizbatist/estudos-numpy/blob/main/01_criacao_vetores_arrays_numpy.py)
+- [01_criacao_vetores_arrays_numpy.py]([https://colab.research.google.com/github/luizbatist/estudos-numpy/blob/main/01_criacao_vetores_arrays_numpy.py](https://colab.research.google.com/drive/1PPMMhlTmneRNQxVZmKvkTsLxs8aQWXL1?authuser=1))
 - [02_operacoes_com_arrays.py](https://colab.research.google.com/github/luizbatist/estudos-numpy/blob/main/02_operacoes_com_arrays.py)
 - [03_indexacao_comparacoes.py](https://colab.research.google.com/github/luizbatist/estudos-numpy/blob/main/03_indexacao_comparacoes.py)
 - [04_exercicios_numpy.py](https://colab.research.google.com/github/luizbatist/estudos-numpy/blob/main/04_exercicios_numpy.py)

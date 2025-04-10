@@ -5,6 +5,6 @@ Repositório com meus estudos e anotações enquanto aprendo ferramentas e bibli
 ## 📚 Conteúdo por tema
 
 - [NumPy](https://github.com/luizbatist/estudos-numpy/tree/main/Numpy) → criação de vetores, operações, indexação, exercícios
-- Pandas (em breve)
+- [Pandas](https://github.com/luizbatist/data-science-study/tree/main/Pandas)) → Importação e visualização de dados, Tratamento de valores nulos, Conversão de tipos de dados, Filtros e consultas em DataFrames
 - Matplotlib (em breve)
 - Análise exploratória (em breve)

@@ -1,7 +1,9 @@
 # 🧠 Estudos em Ciência de Dados
 
-Repositório destinado aos meus **estudos e práticas em Ciência de Dados**, com foco em desenvolver habilidades sólidas em **Python, SQL e Estatística**.  
-Este repositório centraliza meus aprendizados enquanto avanço na **Formação Profissional em Data Analytics e Data Science (DNC)** e na **graduação em Ciência de Dados pela UNIVESP**.
+Repositório destinado aos meus **estudos e práticas em Ciência de Dados**, com foco em desenvolver habilidades sólidas em **Python, SQL, Estatística e Machine Learning**.  
+Aqui registro minha evolução nas ferramentas e bibliotecas fundamentais para trabalhar com dados — desde a análise exploratória até a modelagem preditiva.
+
+Atualmente estudo **Ciência de Dados pela UNIVESP** e **Formação Profissional em Data Analytics e Data Science pela DNC**.
 
 ---
 
@@ -9,47 +11,64 @@ Este repositório centraliza meus aprendizados enquanto avanço na **Formação 
 
 | Pasta / Tema | Descrição | Status |
 |---------------|------------|---------|
-| `day01_numpy/` | Estudo sobre a biblioteca **NumPy**: criação e manipulação de arrays, operações matemáticas e vetorizadas. | ✅ Concluído |
-| `day02_pandas/` | Estudo da biblioteca **Pandas**: leitura, tratamento e análise de dados tabulares. | ✅ Concluído |
-| `matplotlib/` | Criação de visualizações com **Matplotlib**: gráficos de linhas, barras, dispersão e histogramas. | 🚧 Em desenvolvimento |
-| `eda/` | **Análise Exploratória de Dados (EDA)**: estatísticas descritivas, correlação e visualização com **Seaborn** e **Plotly**. | 🔜 Em breve |
+| `day01_numpy/` | Estudo da biblioteca **NumPy** – criação e manipulação de arrays, operações vetorizadas. | ✅ Concluído |
+| `day02_pandas/` | Estudo da biblioteca **Pandas** – limpeza, transformação e análise de dados tabulares. | ✅ Concluído |
+| `matplotlib/` | Visualização de dados com **Matplotlib** – gráficos de linha, barras e dispersão. | 🚧 Em desenvolvimento |
+| `eda/` | **Análise Exploratória de Dados (EDA)** – estatísticas descritivas e correlações com **Seaborn** e **Plotly**. | 🔜 Em breve |
+| `sql_basics/` | Fundamentos de **SQL** – criação de consultas, filtros, junções e agregações em bases relacionais. | 🔜 Em breve |
+| `estatistica/` | Fundamentos de **Estatística e Probabilidade** aplicados à análise de dados com Python. | 🔜 Em breve |
+| `machine_learning/` | Introdução a **Machine Learning** com **Scikit-learn** – modelos de regressão e classificação. | 🔜 Em breve |
 
 ---
 
 ## 🧩 Conteúdo de Cada Módulo
 
 ### **📘 NumPy**
-Repositório: [estudos-numpy](https://github.com/luizbatist/estudos-numpy/tree/main/Numpy)  
 - Criação e manipulação de arrays  
-- Operações matemáticas vetorizadas  
-- Indexação, slicing e broadcasting  
+- Operações matemáticas e vetorizadas  
+- Indexação e slicing  
 - Exercícios práticos de fixação  
 
 ---
 
 ### **📗 Pandas**
-Repositório: [data-science-study – Pandas](https://github.com/luizbatist/data-science-study/tree/main/Pandas)  
 - Importação e visualização de dados  
-- Tratamento de valores ausentes  
+- Tratamento de valores nulos e inconsistências  
 - Conversão e padronização de tipos  
 - Filtros, consultas e agrupamentos  
 - Exportação de dados limpos  
 
 ---
 
-### **📊 Matplotlib** *(em desenvolvimento)*
-- Criação de gráficos de linha, barra e pizza  
-- Personalização de estilo, cor e legendas  
-- Gráficos de distribuição e comparação  
-- Integração com Pandas para análise visual  
+### **📊 Matplotlib & Seaborn**
+- Criação de gráficos de linha, barra, dispersão e pizza  
+- Personalização de estilos e legendas  
+- Análise visual de distribuições  
+- Integração com Pandas e EDA  
 
 ---
 
-### **🔍 Análise Exploratória de Dados (EDA)** *(em breve)*
-- Resumo estatístico das variáveis  
-- Identificação de outliers e correlações  
-- Visualização de padrões com **Seaborn** e **Plotly**  
-- Geração de insights iniciais para modelos de Machine Learning  
+### **🧮 Estatística e Probabilidade**
+- Medidas de tendência central e dispersão  
+- Distribuições de probabilidade  
+- Testes de hipótese e correlação  
+- Regressão linear simples com **Statsmodels**  
+
+---
+
+### **🗄️ SQL para Análise de Dados**
+- Criação de bancos e tabelas  
+- Consultas com **SELECT**, **WHERE**, **GROUP BY**, **JOIN** e **HAVING**  
+- Funções de agregação e subconsultas  
+- Conexão entre Python e SQL via **SQLAlchemy**  
+
+---
+
+### **🤖 Machine Learning (Scikit-learn)**
+- Modelos de regressão e classificação supervisionada  
+- Separação de treino e teste, normalização de dados  
+- Avaliação de desempenho (Accuracy, RMSE, F1-score)  
+- Aplicação prática com datasets públicos (Kaggle, IBGE, etc.)  
 
 ---
 
@@ -58,8 +77,8 @@ Repositório: [data-science-study – Pandas](https://github.com/luizbatist/data
 | Categoria | Ferramentas |
 |------------|-------------|
 | **Linguagem principal** | Python |
-| **Bibliotecas** | Pandas, NumPy, Matplotlib, Seaborn, Plotly |
-| **Banco de dados** | SQL (MySQL, SQLite) |
+| **Bibliotecas** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels |
+| **Banco de dados** | SQL (MySQL, PostgreSQL, SQLite) |
 | **Ambientes de desenvolvimento** | Jupyter Notebook, VSCode |
 | **Versionamento e colaboração** | Git & GitHub |
 
@@ -67,4 +86,22 @@ Repositório: [data-science-study – Pandas](https://github.com/luizbatist/data
 
 ## 🎯 Objetivo
 
-Consolidar conhecimento técnico e prático em **Ciência de Dados**, aplicando técnicas d
+Consolidar conhecimento técnico e prático em **Ciência de Dados**, aplicando técnicas de:
+- Coleta e tratamento de dados  
+- Análise exploratória e estatística  
+- Modelagem preditiva  
+- Comunicação de resultados e automação de processos  
+
+---
+
+## 🧭 Próximos Passos
+
+- [ ] Finalizar estudos de **Matplotlib e Seaborn**  
+- [ ] Criar pasta de **SQL Projects** com consultas práticas  
+- [ ] Iniciar **Estatística com Python**  
+- [ ] Publicar **primeiros modelos de Machine Learning**  
+- [ ] Desenvolver **dashboards interativos com Plotly Dash**
+
+---
+
+📍 *“Aprender é transformar curiosidade em método — e método em resultado.”*

@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/language-Python-blue)
+
 # 🐍 Python Básico
 
 Aqui eu estou construindo a base da lógica de programação com Python.

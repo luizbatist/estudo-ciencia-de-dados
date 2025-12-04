@@ -11,7 +11,7 @@ Atualmente estudo **Ciência de Dados pela UNIVESP** e **Formação Profissional
 
 | Pasta / Tema | Descrição | Status |
 |---------------|------------|---------|
-| `python_basics/` | Fundamentos de Python: variáveis, operadores, booleanos e lógica básica. | ✅ Concluindo |
+| `python_basics/` | Fundamentos de Python: variáveis, operadores, booleanos e lógica básica. | ✅ Concluido |
 | `day01_numpy/` | Estudo da biblioteca **NumPy** – criação e manipulação de arrays, operações vetorizadas. | 🚧 Em desenvolvimento |
 | `day02_pandas/` | Estudo da biblioteca **Pandas** – limpeza, transformação e análise de dados tabulares. | 🚧 Em desenvolvimento |
 | `matplotlib/` | Visualização de dados com **Matplotlib** – gráficos de linha, barras e dispersão. | 🚧 Em desenvolvimento |
